@@ -1,8 +1,11 @@
 #include "pch.h"
-
+#include <iostream>
 using namespace System;
+using namespace std;
 
-int main(array<System::String ^> ^args)
+int main( )
 {
-    return 0;
+    
+    cout << "El diego";
+
 }
